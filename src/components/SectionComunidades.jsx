@@ -21,7 +21,7 @@
     text:
       "A aura do Plantel. Caminho máximo para quem busca materiais de qualidade para se aprofundar e praticar os estudos nos mais diversos assuntos dos vestibulares.",
     extra:
-      "DRIVE do Plantel Listas. Todos os conteúdos reunidos em um só lugar. Confira na bio do Instagram. +300 listas organizadas por assunto, provas de várias bancas militares, materiais de professores parceiros, tudo atualizado e gratuito.",
+      "☁️ DRIVE do Plantel Listas 📖 \n Todos os conteúdos reunidos em um só lugar! \n Confira na bio do instagram. \n✅ + 300 listas organizadas por assunto \n✅ Provas de várias bancas militares \n✅ Materiais de professores parceiros ✅ Tudo atualizado e 100% gratuito ",
   },
   {
     id: "redacao",
@@ -54,7 +54,7 @@
     text:
       "Espaço de divulgação de materiais relativos ao campo dos estudos: livros, mesas digitalizadoras, tablets e etc.",
     extra:
-      "Não nos responsabilizamos por golpes. Realizem transações em plataformas de confiança, pois haverá seguro contra golpe.",
+      "🚫 Não nos responsabilizamos por golpes ou coisas do gênero. \n✅ Realizem transações em plataformas de confiança, pois haverá seguro contra golpe."
   },
   {
     id: "iteanos",
@@ -134,7 +134,7 @@ export default function SectionComunidades() {
 
             {community.extra && (
               <div className="box-comunidade-listas-efeito">
-                <p className="text-info-in-inside">{community.extra}</p>
+                <p className="text-info-in-inside" style={{ whiteSpace: "pre-line" }}>{community.extra}</p>
               </div>
             )}
           </div>

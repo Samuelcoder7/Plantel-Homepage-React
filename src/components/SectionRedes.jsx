@@ -6,6 +6,7 @@
       "Acompanhe nossas divulgações, novidades e acesso ao drive do Plantel no link da bio.",
     href: "https://www.instagram.com/planteldeduvidas/",
     imageSrc: "/images/instaLogo.png",
+    size: { width: "90px", height: "90px" },
   },
   {
     id: "discord",
@@ -14,13 +15,15 @@
       "Espaço criado para aqueles que buscam fortificar seus estudos com metas diárias e mensais bem como participar de sessões de estudo.",
     href: "https://discord.gg/dbKeAz6Y",
     imageSrc: "/images/discord.png",
+    size: { width: "90px", height: "80px" },
   },
   {
     id: "youtube",
-    title: "YouTube",
+    title: "Youtube",
     description: "Aulas, resoluções e conteúdos voltados para o ramo militar.",
     href: "https://www.youtube.com/@PlanteldeDuvidas",
     imageSrc: "/images/youtube.png",
+    size: { width: "100px", height: "100px" },
   },
   {
     id: "whatsapp-1",
@@ -28,6 +31,7 @@
     description: "Comunidade do WhatsApp 1. Acesso ao Plantel Ψ",
     href: "https://chat.whatsapp.com/KMwYVUctbqh1sPtlhcs3ip",
     imageSrc: "/images/LogoZap.png",
+    size: { width: "70px", height: "70px" },
   },
   {
     id: "whatsapp-2",
@@ -35,6 +39,7 @@
     description: "Comunidade do WhatsApp 2. Acesso ao Plantel Σ",
     href: "https://chat.whatsapp.com/G8CA8y1gvKlJ7I4tKMO7dZ",
     imageSrc: "/images/LogoZap.png",
+    size: { width: "70px", height: "70px" },
   },
   {
     id: "telegram",
@@ -42,6 +47,7 @@
     description: "Extensão das atividades que ocorrem nas outras comunidades.",
     href: "https://t.me/plantelduvidas",
     imageSrc: "/images/telegram.png",
+    size: { width: "70px", height: "70px" },
   },
 ];
 
@@ -66,7 +72,7 @@ export default function SectionRedes() {
             <img
               src={rede.imageSrc}
               alt={rede.title}
-              style={{ width: "90px", height: "90px", margin: "auto" }}
+              style={{ width: rede.size.width, height: rede.size.height, margin: "auto" }}
             />
             {/*
               Como colocar a imagem:

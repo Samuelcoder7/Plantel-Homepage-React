@@ -66,11 +66,11 @@ export default function App() {
 
   const menuItems = useMemo(
     () => [
-      { id: "#sobre", label: "Sobre o Plantel" },
-      { id: "#comunidades", label: "Comunidades" },
-      { id: "#redes", label: "Redes Sociais" },
-      { id: "#parceiros", label: "Parceiros" },
-      { id: "#professores", label: "Professores" },
+      { id: "#sobre", label: "Sobre o Plantel ∑" },
+      { id: "#comunidades", label: "Comunidades ɸ" },
+      { id: "#redes", label: "Redes Sociais Ψ" },
+      { id: "#parceiros", label: "Parceiros λ" },
+      { id: "#professores", label: "Professores ξ" },
     ],
     []
   );
