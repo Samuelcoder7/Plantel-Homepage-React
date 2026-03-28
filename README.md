@@ -14,3 +14,144 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# File Tree: Plantel-Homepage-React
+
+**Generated:** 3/27/2026, 9:19:35 PM
+
+```
+├── 📁 public
+│   ├── 📁 Logo_parceiros
+│   │   ├── 📁 Logo_parceiros
+│   │   │   ├── 🖼️ cosseno_logo.jpeg
+│   │   │   ├── 🖼️ logo-japamath-v1.webp
+│   │   │   ├── 🖼️ logo-puppin.png
+│   │   │   ├── 🖼️ logofenix.png
+│   │   │   └── 🖼️ mobius.jpg
+│   │   ├── 🖼️ cosseno_logo.jpeg
+│   │   ├── 🖼️ logo-japamath-v1.webp
+│   │   ├── 🖼️ logo-puppin.png
+│   │   ├── 🖼️ logofenix.png
+│   │   └── 🖼️ mobius.jpg
+│   ├── 📁 fotos-professores
+│   │   ├── 📁 fotos-professores
+│   │   │   ├── 🖼️ Foto - Heitor.png
+│   │   │   ├── 🖼️ JP-foto.jpeg
+│   │   │   ├── 🖼️ canellas.webp
+│   │   │   ├── 🖼️ filipedasexatas.jpg
+│   │   │   ├── 🖼️ foto-lucas.jpeg
+│   │   │   └── 🖼️ germano.png
+│   │   ├── 🖼️ Foto - Heitor.png
+│   │   ├── 🖼️ JP-foto.jpeg
+│   │   ├── 🖼️ canellas.webp
+│   │   ├── 🖼️ filipedasexatas.jpg
+│   │   ├── 🖼️ foto-lucas.jpeg
+│   │   ├── 🖼️ germano.png
+│   │   └── 🖼️ pestana.jpeg
+│   ├── 📁 fundo_parceiros
+│   │   ├── 📁 fundo_parceiros
+│   │   │   ├── 🖼️ cosseno-cel.png
+│   │   │   ├── 🖼️ cosseno.png
+│   │   │   ├── 🖼️ fundo-mobius.png
+│   │   │   ├── 🖼️ fênix-cel.png
+│   │   │   ├── 🖼️ fênix.png
+│   │   │   ├── 🖼️ japa-cel.png
+│   │   │   ├── 🖼️ japa.png
+│   │   │   ├── 🖼️ mobius-cel.png
+│   │   │   ├── 🖼️ puppin-cel.png
+│   │   │   └── 🖼️ puppin.png
+│   │   ├── 🖼️ cosseno-cel.png
+│   │   ├── 🖼️ cosseno.png
+│   │   ├── 🖼️ fundo-mobius.png
+│   │   ├── 🖼️ fênix-cel.png
+│   │   ├── 🖼️ fênix.png
+│   │   ├── 🖼️ japa-cel.png
+│   │   ├── 🖼️ japa.png
+│   │   ├── 🖼️ mobius-cel.png
+│   │   ├── 🖼️ puppin-cel.png
+│   │   └── 🖼️ puppin.png
+│   ├── 📁 images
+│   │   ├── 📁 images
+│   │   │   ├── 🖼️ LogoCalculo.png
+│   │   │   ├── 🖼️ LogoExatas.png
+│   │   │   ├── 🖼️ LogoIteano.png
+│   │   │   ├── 🖼️ LogoListas.png
+│   │   │   ├── 🖼️ LogoPlant.jpg
+│   │   │   ├── 🖼️ LogoPlant.png
+│   │   │   ├── 🖼️ LogoPlantnoHeader.png
+│   │   │   ├── 🖼️ LogoZap(2).png
+│   │   │   ├── 🖼️ LogoZap.png
+│   │   │   ├── 🖼️ LogozApp.png
+│   │   │   ├── 🖼️ bandeirabrasil.webP
+│   │   │   ├── 🖼️ discord.png
+│   │   │   ├── 🖼️ discordLogo.png
+│   │   │   ├── 🖼️ iconplantel.jpg
+│   │   │   ├── 🖼️ insta.png
+│   │   │   ├── 🖼️ instaLogo(2).png
+│   │   │   ├── 🖼️ instaLogo.png
+│   │   │   ├── 🖼️ pestana.jpeg
+│   │   │   ├── 🖼️ telegram.png
+│   │   │   ├── 🖼️ youtube.png
+│   │   │   └── 🖼️ youtubeLogo.png
+│   │   ├── 🖼️ LogoCalculo.png
+│   │   ├── 🖼️ LogoExatas.png
+│   │   ├── 🖼️ LogoIteano.png
+│   │   ├── 🖼️ LogoListas.png
+│   │   ├── 🖼️ LogoPlant.jpg
+│   │   ├── 🖼️ LogoPlant.png
+│   │   ├── 🖼️ LogoPlantnoHeader.png
+│   │   ├── 🖼️ LogoZap(2).png
+│   │   ├── 🖼️ LogoZap.png
+│   │   ├── 🖼️ LogozApp.png
+│   │   ├── 🖼️ bandeirabrasil.webP
+│   │   ├── 🖼️ discord.png
+│   │   ├── 🖼️ discordLogo.png
+│   │   ├── 🖼️ iconplantel.jpg
+│   │   ├── 🖼️ insta.png
+│   │   ├── 🖼️ instaLogo(2).png
+│   │   ├── 🖼️ instaLogo.png
+│   │   ├── 🖼️ pestana.jpeg
+│   │   ├── 🖼️ telegram.png
+│   │   ├── 🖼️ youtube.png
+│   │   └── 🖼️ youtubeLogo.png
+│   ├── 🖼️ favicon.svg
+│   └── 🖼️ icons.svg
+├── 📁 src
+│   ├── 📁 assets
+│   │   ├── 🖼️ hero.png
+│   │   ├── 🖼️ react.svg
+│   │   └── 🖼️ vite.svg
+│   ├── 📁 components
+│   │   ├── 📄 BackToTop.jsx
+│   │   ├── 📄 Footer.jsx
+│   │   ├── 📄 Header.jsx
+│   │   ├── 📄 Hero.jsx
+│   │   ├── 📄 MobileMenu.jsx
+│   │   ├── 📄 SectionComoFunciona.jsx
+│   │   ├── 📄 SectionComunidades.jsx
+│   │   ├── 📄 SectionFaq.jsx
+│   │   ├── 📄 SectionParceiros.jsx
+│   │   ├── 📄 SectionProfessores.jsx
+│   │   ├── 📄 SectionRedes.jsx
+│   │   ├── 📄 SectionSobre.jsx
+│   │   ├── 📄 SideNavbar.jsx
+│   │   └── 📄 SocialFab.jsx
+│   ├── 📁 styles
+│   │   └── 🎨 global.css
+│   ├── 🎨 App.css
+│   ├── 📄 App.jsx
+│   ├── 🎨 index.css
+│   └── 📄 main.jsx
+├── ⚙️ .gitattributes
+├── ⚙️ .gitignore
+├── 📄 LICENSE
+├── 📝 README.md
+├── 📄 eslint.config.js
+├── 🌐 index.html
+├── ⚙️ package-lock.json
+├── ⚙️ package.json
+└── 📄 vite.config.js
+```
+
+---
+*Generated by FileTree Pro Extension*
