@@ -71,6 +71,15 @@ const professores = [
     fotoClassName: "foto-lucas",
     imageSrc: "/fotos-professores/foto-lucas.jpeg",
   },
+  {
+    id: "vhlins",
+    name: "Prof. Victor Lins",
+    handle: "@vhslins",
+    category: "exatas",
+    description: "Físico pela USP, mestrando em matemática pela UFPE, professor, autor de “Matemática Básica” e “Cálculo”. Fundador da mobius editora e  cofundador da 314editora.",
+    fotoClassName: "foto-lins",
+    imageSrc: "public/fotos-professores/VhLins.jpeg",
+  }
 ];
 
 const filters = [
