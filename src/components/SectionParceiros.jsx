@@ -58,20 +58,20 @@ export default function SectionParceiros() {
           className="hero-parceiro"
           data-parceiro={parceiro.id}
         >
-          <img
-            src={parceiro.imageSrc}
-            alt={parceiro.name}
-            className={parceiro.className}
+          <div
+            className="hero-parceiro-card"
             onClick={() => window.open(parceiro.link, "_blank")}
-          />
-          {/*
-            Como colocar a imagem do parceiro:
-            1) Coloque o arquivo em public/Logo_parceiros/
-            2) Troque src="#" por src="/Logo_parceiros/ARQUIVO.png"
-          */}
-          {parceiro.label && (
-            <p className="hero-parceiro-text">{parceiro.label}</p>
-          )}
+          >
+            <img
+              src={parceiro.imageSrc}
+              alt={parceiro.name}
+              className={parceiro.className}
+            />
+
+            {parceiro.label && (
+              <p className="hero-parceiro-text">{parceiro.label}</p>
+            )}
+          </div>
         </section>
       ))}
 

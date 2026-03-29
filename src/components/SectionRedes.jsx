@@ -56,7 +56,6 @@ export default function SectionRedes() {
     <section id="redes" className="secao">
       <h2>Redes Sociais</h2>
       <div className="line"></div>
-
       <div className="container-redes">
         {redes.map((rede) => (
           <div

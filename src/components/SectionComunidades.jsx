@@ -1,7 +1,7 @@
 ﻿const communities = [
   {
     id: "exatas",
-    title: "Plantel de Exatas",
+    title: "Plantel de Exatas 🔢",
     emoji: "",
     imageAlt: "Logo Plantel de Exatas",
     imageSrc: "/images/LogoExatas.png",
@@ -15,17 +15,17 @@
   },
   {
     id: "listas",
-    title: "Plantel Listas",
+    title: "Plantel Listas 📚",
     imageAlt: "Logo Plantel Listas",
     imageSrc: "/images/LogoListas.png",
     text:
-      "A aura do Plantel. Caminho máximo para quem busca materiais de qualidade para se aprofundar e praticar os estudos nos mais diversos assuntos dos vestibulares.",
+      '"A aura do Plantel". Caminho máximo para quem busca materiais de qualidade para se aprofundar e praticar os estudos nos mais diversos assuntos dos vestibulares.',
     extra:
       "☁️ DRIVE do Plantel Listas 📖 \n Todos os conteúdos reunidos em um só lugar! \n Confira na bio do instagram. \n✅ + 300 listas organizadas por assunto \n✅ Provas de várias bancas militares \n✅ Materiais de professores parceiros ✅ Tudo atualizado e 100% gratuito ",
   },
   {
     id: "redacao",
-    title: "Plantel de Redação",
+    title: "Plantel de Redação ✍️",
     imageAlt: "Logo Plantel de Redação",
     imageSrc: "/images/LogoExatas.png",
     text:
@@ -39,7 +39,7 @@
   },
   {
     id: "humanas",
-    title: "Plantel de Humanas e Linguagens",
+    title: "Plantel de Humanas e Linguagens 🌎",
     imageAlt: "Logo Plantel de Humanas e Linguagens",
     imageSrc: "/images/LogoExatas.png",
     text:
@@ -48,7 +48,7 @@
   },
   {
     id: "compra-vendas",
-    title: "Plantel: Compra/Vendas de materiais",
+    title: "Plantel: Compra/Vendas de materiais 🤝",
     imageAlt: "Logo Plantel Compra/Vendas",
     imageSrc: "/images/LogoExatas.png",
     text:
@@ -58,7 +58,7 @@
   },
   {
     id: "iteanos",
-    title: "Grupo Pré-Iteanos",
+    title: "Grupo Pré-Iteanos ✈️",
     imageAlt: "Logo Grupo Pré-Iteanos",
     imageSrc: "/images/LogoIteano.png",
     text: "Enfoque na resolução de questões de ITA/IME + Networking.",
@@ -66,7 +66,7 @@
   },
   {
     id: "networking",
-    title: "Plantel Networking",
+    title: "Plantel Networking 💬",
     imageAlt: "Logo Plantel Networking",
     imageSrc: "/images/LogoExatas.png",
     text:
