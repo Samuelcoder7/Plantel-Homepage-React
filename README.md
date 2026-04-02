@@ -22,49 +22,29 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # File Tree: Plantel-Homepage-React
 
-**Generated:** 3/27/2026, 9:19:35 PM
+# File Tree: Plantel-Homepage-React
+
+**Generated:** 4/2/2026, 2:31:10 PM
+**Root Path:** `c:\Users\phnp2\OneDrive\Documentos\PLANTEL-main\Plantel-Homepage-React`
 
 ```
 ├── 📁 public
 │   ├── 📁 Logo_parceiros
-│   │   ├── 📁 Logo_parceiros
-│   │   │   ├── 🖼️ cosseno_logo.jpeg
-│   │   │   ├── 🖼️ logo-japamath-v1.webp
-│   │   │   ├── 🖼️ logo-puppin.png
-│   │   │   ├── 🖼️ logofenix.png
-│   │   │   └── 🖼️ mobius.jpg
 │   │   ├── 🖼️ cosseno_logo.jpeg
 │   │   ├── 🖼️ logo-japamath-v1.webp
 │   │   ├── 🖼️ logo-puppin.png
 │   │   ├── 🖼️ logofenix.png
 │   │   └── 🖼️ mobius.jpg
 │   ├── 📁 fotos-professores
-│   │   ├── 📁 fotos-professores
-│   │   │   ├── 🖼️ Foto - Heitor.png
-│   │   │   ├── 🖼️ JP-foto.jpeg
-│   │   │   ├── 🖼️ canellas.webp
-│   │   │   ├── 🖼️ filipedasexatas.jpg
-│   │   │   ├── 🖼️ foto-lucas.jpeg
-│   │   │   └── 🖼️ germano.png
 │   │   ├── 🖼️ Foto - Heitor.png
 │   │   ├── 🖼️ JP-foto.jpeg
+│   │   ├── 🖼️ VhLins.jpeg
 │   │   ├── 🖼️ canellas.webp
 │   │   ├── 🖼️ filipedasexatas.jpg
 │   │   ├── 🖼️ foto-lucas.jpeg
 │   │   ├── 🖼️ germano.png
 │   │   └── 🖼️ pestana.jpeg
 │   ├── 📁 fundo_parceiros
-│   │   ├── 📁 fundo_parceiros
-│   │   │   ├── 🖼️ cosseno-cel.png
-│   │   │   ├── 🖼️ cosseno.png
-│   │   │   ├── 🖼️ fundo-mobius.png
-│   │   │   ├── 🖼️ fênix-cel.png
-│   │   │   ├── 🖼️ fênix.png
-│   │   │   ├── 🖼️ japa-cel.png
-│   │   │   ├── 🖼️ japa.png
-│   │   │   ├── 🖼️ mobius-cel.png
-│   │   │   ├── 🖼️ puppin-cel.png
-│   │   │   └── 🖼️ puppin.png
 │   │   ├── 🖼️ cosseno-cel.png
 │   │   ├── 🖼️ cosseno.png
 │   │   ├── 🖼️ fundo-mobius.png
@@ -76,44 +56,16 @@ If you are developing a production application, we recommend using TypeScript wi
 │   │   ├── 🖼️ puppin-cel.png
 │   │   └── 🖼️ puppin.png
 │   ├── 📁 images
-│   │   ├── 📁 images
-│   │   │   ├── 🖼️ LogoCalculo.png
-│   │   │   ├── 🖼️ LogoExatas.png
-│   │   │   ├── 🖼️ LogoIteano.png
-│   │   │   ├── 🖼️ LogoListas.png
-│   │   │   ├── 🖼️ LogoPlant.jpg
-│   │   │   ├── 🖼️ LogoPlant.png
-│   │   │   ├── 🖼️ LogoPlantnoHeader.png
-│   │   │   ├── 🖼️ LogoZap(2).png
-│   │   │   ├── 🖼️ LogoZap.png
-│   │   │   ├── 🖼️ LogozApp.png
-│   │   │   ├── 🖼️ bandeirabrasil.webP
-│   │   │   ├── 🖼️ discord.png
-│   │   │   ├── 🖼️ discordLogo.png
-│   │   │   ├── 🖼️ iconplantel.jpg
-│   │   │   ├── 🖼️ insta.png
-│   │   │   ├── 🖼️ instaLogo(2).png
-│   │   │   ├── 🖼️ instaLogo.png
-│   │   │   ├── 🖼️ pestana.jpeg
-│   │   │   ├── 🖼️ telegram.png
-│   │   │   ├── 🖼️ youtube.png
-│   │   │   └── 🖼️ youtubeLogo.png
-│   │   ├── 🖼️ LogoCalculo.png
 │   │   ├── 🖼️ LogoExatas.png
 │   │   ├── 🖼️ LogoIteano.png
 │   │   ├── 🖼️ LogoListas.png
-│   │   ├── 🖼️ LogoPlant.jpg
 │   │   ├── 🖼️ LogoPlant.png
 │   │   ├── 🖼️ LogoPlantnoHeader.png
-│   │   ├── 🖼️ LogoZap(2).png
 │   │   ├── 🖼️ LogoZap.png
-│   │   ├── 🖼️ LogozApp.png
 │   │   ├── 🖼️ bandeirabrasil.webP
 │   │   ├── 🖼️ discord.png
 │   │   ├── 🖼️ discordLogo.png
-│   │   ├── 🖼️ iconplantel.jpg
 │   │   ├── 🖼️ insta.png
-│   │   ├── 🖼️ instaLogo(2).png
 │   │   ├── 🖼️ instaLogo.png
 │   │   ├── 🖼️ pestana.jpeg
 │   │   ├── 🖼️ telegram.png
