@@ -23,7 +23,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # File Tree: Plantel-Homepage-React
 
 **Generated:** 4/2/2026, 2:31:10 PM
-**Root Path:** `c:\Users\phnp2\OneDrive\Documentos\PLANTEL-main\Plantel-Homepage-React`
 
 ```
 ├── 📁 public
